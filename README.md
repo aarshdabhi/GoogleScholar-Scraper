@@ -17,6 +17,7 @@ Executing the script
 1. Change the working directory to the folder where you have saved the python script and intend to save the output results.
    
 	bash
+
 	cd /usr/path_to_your_folder
 
  2. Make it Executable
@@ -28,6 +29,7 @@ Executing the script
 3. Run via Terminal
 	
  	bash
+
 	python3 google_scholar_scraper.py
 
 	
