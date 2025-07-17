@@ -14,18 +14,20 @@ Installation Requirements
 
 Executing the script
 
-	1. Change the working directory to the folder where you have saved the python 			script and intend to save the output results.
-
+1. Change the working directory to the folder where you have saved the python script and intend to save the output results.
+   
 	bash
-	cd /usr/path_to_your_folder 
- 	2. Make it Executable
+	cd /usr/path_to_your_folder
+
+ 2. Make it Executable
 
 	bash
 	chmod +x google_scholar_scraper.py
 
 
-	3. Run via Terminal
-	bash
+3. Run via Terminal
+	
+ 	bash
 	python3 google_scholar_scraper.py
 
 	
